@@ -30,7 +30,7 @@ class Commentt extends Component{
         </Comment.Metadata>
         <Comment.Text>{comment.content}</Comment.Text>
         <Comment.Actions>
-        <Rating icon='star' defaultRating={3} maxRating={4} />
+        <Rating icon='star' defaultRating={3} maxRating={4} /> 
           <Comment.Action>Reply</Comment.Action>
         </Comment.Actions>
       </Comment.Content>
