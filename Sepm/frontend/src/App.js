@@ -15,7 +15,7 @@ const App = () => {
         <Switch>
           <Route exact path = "/" component = { Commentt } />
         </Switch>
-        <Footer />
+      
       </React.Fragment>
     );
 }
